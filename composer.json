@@ -1,17 +1,16 @@
 {
     "name": "chencongbao/dingo-bob",
-    "description": "A RESTful API package for the Laravel and Lumen frameworks.",
+    "description": "gingo api laravel 5.4",
     "keywords": [
         "api",
         "dingo",
         "laravel",
         "restful"
     ],
-    "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Jason Lewis",
-            "email": "jason.lewis1991@gmail.com"
+            "name": "Bob",
+            "email": "chencongbao@gmail.com"
         }
     ],
     "require": {
@@ -48,11 +47,6 @@
         "files": [
             "src/helpers.php"
         ]
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Dingo\\Api\\Tests\\": "tests/"
-        }
     },
     "extra": {
         "branch-alias": {
